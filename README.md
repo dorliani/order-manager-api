@@ -1,7 +1,7 @@
 # order-manager-api
 
 Run npm install.\
-The database files is located in the src/db folder .
+The database files are located in the src/db folder .
 
 ### NPM Packages
 - express
