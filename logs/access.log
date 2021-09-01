@@ -1,0 +1,70 @@
+2021-09-01 15:32:16 info: Server is up on port 3000
+2021-09-01 15:32:25 info: Server is up on port 3000
+2021-09-01 15:32:31 error: Ordr is not defined
+2021-09-01 15:32:45 info: Server is up on port 3000
+2021-09-01 15:33:02 info: Server is up on port 3000
+2021-09-01 15:33:23 info: Server is up on port 3000
+2021-09-01 15:34:05 info: Server is up on port 3000
+2021-09-01 15:34:17 info: Server is up on port 3000
+2021-09-01 15:34:21 info: ok
+2021-09-01 15:34:59 info: Server is up on port 3000
+2021-09-01 15:35:00 info: /orders
+2021-09-01 15:35:27 info: Server is up on port 3000
+2021-09-01 15:37:17 info: Server is up on port 3000
+2021-09-01 15:37:19 info: /orders GET 
+2021-09-01 15:38:14 info: Server is up on port 3000
+2021-09-01 15:39:04 info: Server is up on port 3000
+2021-09-01 15:39:26 info: /orders POST Posted a new order
+2021-09-01 15:44:38 error: Not found
+2021-09-01 15:47:50 info: /orders POST Posted a new order
+2021-09-01 15:47:50 error: Order validation failed: email: Email is invalid
+2021-09-01 15:47:50 info: /orders GET Got the orders
+2021-09-01 15:53:32 info: /orders POST Posted a new order
+2021-09-01 15:53:32 error: Order validation failed: email: Email is invalid
+2021-09-01 15:53:32 info: /orders GET Got the orders
+2021-09-01 15:54:23 error: Order validation failed: email: Email is invalid
+2021-09-01 15:55:03 info: Server is up on port 3000
+2021-09-01 15:55:22 info: /orders GET Got the orders
+2021-09-01 15:55:35 error: Order validation failed: email: Email is invalid
+2021-09-01 15:56:39 error: Order validation failed: email: Email is invalid
+2021-09-01 15:57:26 error: Order validation failed: email: Email is invalid
+2021-09-01 16:01:03 info: Server is up on port 3000
+2021-09-01 16:01:31 info: /orders POST Posted a new order
+2021-09-01 16:05:50 info: Server is up on port 3000
+2021-09-01 16:06:59 info: Server is up on port 3000
+2021-09-01 16:07:03 error: object is not defined
+2021-09-01 16:07:15 info: Server is up on port 3000
+2021-09-01 16:07:19 error: object is not defined
+2021-09-01 16:07:45 info: Server is up on port 3000
+2021-09-01 16:07:49 info: Server is up on port 3000
+2021-09-01 16:08:07 info: Server is up on port 3000
+2021-09-01 16:08:12 error: object is not defined
+2021-09-01 16:08:21 info: Server is up on port 3000
+2021-09-01 16:08:27 info: Server is up on port 3000
+2021-09-01 16:12:43 info: Server is up on port 3000
+2021-09-01 16:13:14 info: Server is up on port 3000
+2021-09-01 16:13:20 info: /orders POST Posted a new order
+2021-09-01 16:14:08 info: Server is up on port 3000
+2021-09-01 16:14:10 info: /orders POST Posted a new order
+2021-09-01 16:14:41 info: Server is up on port 3000
+2021-09-01 16:14:47 info: /orders POST Posted a new order
+2021-09-01 16:15:28 info: Server is up on port 3000
+2021-09-01 16:16:29 info: Server is up on port 3000
+2021-09-01 16:16:44 info: Server is up on port 3000
+2021-09-01 16:16:46 info: Server is up on port 3000
+2021-09-01 16:16:48 info: /orders POST Posted a new order
+2021-09-01 16:17:02 info: Server is up on port 3000
+2021-09-01 16:17:04 info: /orders POST Posted a new order
+2021-09-01 16:17:18 info: Server is up on port 3000
+2021-09-01 16:18:42 info: /orders POST Posted a new order
+2021-09-01 16:20:25 info: Server is up on port 3000
+2021-09-01 16:20:29 info: /orders GET Got the orders
+2021-09-01 16:20:37 info: Server is up on port 3000
+2021-09-01 16:20:50 info: Server is up on port 3000
+2021-09-01 16:26:04 info: Server is up on port 3000
+2021-09-01 16:26:09 info: /orders POST Posted a new order, id - 612f7f7177164c7642015786
+2021-09-01 17:14:22 info: Server is up on port 3000
+2021-09-01 17:14:49 info: /orders GET Got the orders
+2021-09-01 17:15:13 info: Server is up on port 3000
+2021-09-01 17:15:42 info: Server is up on port 3000
+2021-09-01 17:18:10 info: Server is up on port 3000

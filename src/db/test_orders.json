@@ -1,0 +1,1 @@
+{"_id":{"$oid":"612f7fc2ced1535b0f35ba84"},"name":"Dor","email":"dor@gmail.com","city":"Rishon","street":"Mivtza","createdAt":{"$date":"2021-09-01T13:27:30.333Z"},"updatedAt":{"$date":"2021-09-01T13:27:30.333Z"},"__v":0}
