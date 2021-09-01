@@ -1,4 +1,7 @@
 # order-manager-api
+
+Run npm install.
+
 ### NPM Packages
 - express
 - express-async-handler
